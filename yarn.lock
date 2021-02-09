@@ -1051,10 +1051,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bojagi/cli@^0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@bojagi/cli/-/cli-0.13.0.tgz#96ad0a36e92da00c1257ac8d40a6ee635336eaeb"
-  integrity sha512-UGlOUQtUEdRZaFprTIB+SqeXc0icuDf0d5wPCBosNcLoDjFoE56vgOXgtzZ0rsFEyj9wH8gA+AfnHPY1/tF1+A==
+"@bojagi/cli@^0.13.1-next.0":
+  version "0.13.1-next.0"
+  resolved "https://registry.yarnpkg.com/@bojagi/cli/-/cli-0.13.1-next.0.tgz#f7f0e6abb17c5561d7e1b0a130fd91a090472b54"
+  integrity sha512-ZgU7iFb2YLjZTcpxJw0TRrKGyAYF2r4pFt7xCWzztihgHyMyST2VhmcIlNz782KfxPCsXlyTMVvsGXbFvzasVg==
   dependencies:
     "@bojagi/types" "^0.9.0"
     adm-zip "^0.4.13"
